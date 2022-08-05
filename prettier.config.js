@@ -1,11 +1,11 @@
 const options = {
-  arrowParens: "avoid",
-  singleQuote: true,
+  arrowParens: 'avoid',
+  singleQuote: false,
   backetSpacing: true,
-  endOfLine: "lf",
+  endOfLine: 'lf',
   semi: true,
   tabWidth: 2,
-  trailingComma: "es5",
+  trailingComma: 'es5',
   printWidth: 80,
 };
 
